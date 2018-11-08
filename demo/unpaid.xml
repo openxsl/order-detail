@@ -69,11 +69,7 @@
                 </i>
             </content>
             <actions>
-                <pay>
-                    <trade_no>4200000179201809102991138344</trade_no>
-                    <type>weixin</type>
-                    <time><fmt_cn>2017年2月3日 14:12</fmt_cn></time>
-                </pay>
+                
             </actions>
         </i>
     </ecom-orders>
